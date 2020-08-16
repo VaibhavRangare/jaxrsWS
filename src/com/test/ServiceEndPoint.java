@@ -29,10 +29,4 @@ public class ServiceEndPoint {
 	      obj.put("is_vip", new Boolean(true));
 	      return obj;
 	}
-	
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-	}
-
 }
